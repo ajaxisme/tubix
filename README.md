@@ -1,6 +1,9 @@
 # tubix
 An app to show youtube video and lyrics at the same time
 
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/ajaxisme/tubix/master/screenshot.png)
+
 ## Technologies
 1. React - front end
 2. Flask - API backend
